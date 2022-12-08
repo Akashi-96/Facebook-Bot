@@ -1,7 +1,7 @@
 adium-theme-ubuntu==0.3.4
 attrs==15.2.0
 ccsm==0.9.12.2
-certifi==2017.7.27.1
+certifi==2022.12.7
 chardet==3.0.4
 compizconfig-python==0.9.12.2
 cryptography==1.2.3
